@@ -1,5 +1,5 @@
   ## Olá!, sou o Miguel Augusto <br> sou estudante de Desenvolvimento de Sistemas
-- 🔭 Trabalho com front-end
+- 🔭 Estudando com front-end
 - 🌱 Estudando Html, Css e Java Script
 - 💬 Gosto de água
 - ⚡Tentando aprender mais

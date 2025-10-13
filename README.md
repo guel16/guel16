@@ -24,7 +24,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.instagram.com/m.leoderio_/?next=%2F" target="_blank">
+  <a href="https://www.instagram.com/migleoderio_/?next=%2F" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="instagram logo"  />
   </a>
 </div>

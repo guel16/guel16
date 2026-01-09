@@ -2,13 +2,11 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=guel16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats graph"/>
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guel16&layout=compact&theme=dracula" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guel16&layout=compact&theme=dracula" height="150" alt="Grafico de Linguagens"/>
 </div>
 
 
-<img align="right" height="150" width="190rem" src="https://media.tenor.com/oGPr5SU1a5YAAAAM/dinowink2025-dinoolympia2025-ramonolympia2025-ramonpiscadela.gif"  />
+<img align="right" height="150" width="190" src="https://media.tenor.com/oGPr5SU1a5YAAAAM/dinowink2025-dinoolympia2025-ramonolympia2025-ramonpiscadela.gif"  />
 
 
 <div align="center" height="40%">

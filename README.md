@@ -38,7 +38,4 @@
 
 ###
 <br>
-<div align="center">
-<h2 align="left">My languages</h2>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guel16&layout=compact&theme=dracula" height="150" alt="Grafico de Linguagens"/>
-</div>
+
